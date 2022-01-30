@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid #dddddd;
+    border-collapse: collapse;
+}
+.table th {
+    font-weight: bold;
+    padding: 5px;
+    background: #efefef;
+    border: 1px solid #dddddd;
+    text-align: inherit;
+}
+.table td {
+    border: 1px solid #dddddd;
+    padding: 5px;
+}
+input:disabled {
+    background-color: #fff;
+    font-weight: 700;
+    border: none;
+}
+input.subject-kredi {
+    text-align: center;
+    width: 40px;
+}
+input.subject-name {
+    width: 120px;
+}
+.btn {
+    display: block;
+    margin-left: auto;
+    background: #33a5d1;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.ortalama-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+}

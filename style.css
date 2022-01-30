@@ -17,7 +17,7 @@ body {
 }
 .table td {
     border: 1px solid #dddddd;
-    padding: 5px;
+    padding: 10px 5px;
 }
 input:disabled {
     background-color: #fff;
